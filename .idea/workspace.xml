@@ -61,7 +61,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MainExtended (1)">
+  <component name="RunManager" selected="Application.LeapYear">
     <configuration name="DebugExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DebugExample" />
       <module name="kodilla-course.kodilla-intro.main" />
@@ -90,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainExtended (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainExtended" />
+    <configuration name="Year" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Year" />
       <module name="kodilla-course.kodilla-intro.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -99,11 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Year" />
         <item itemvalue="Application.LeapYear" />
         <item itemvalue="Application.DebugExample" />
         <item itemvalue="Application.FirstClass" />
         <item itemvalue="Application.HelloWorld" />
-        <item itemvalue="Application.MainExtended (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +137,21 @@
       <option name="project" value="LOCAL" />
       <updated>1686137434756</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Zadania">
+      <created>1686137848132</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1686137848132</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Test">
+      <created>1686138011336</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1686138011336</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -152,6 +166,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="Zadania" />
     <MESSAGE value="Test" />
     <option name="LAST_COMMIT_MESSAGE" value="Test" />
   </component>
